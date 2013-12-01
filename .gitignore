@@ -1,0 +1,6 @@
+*.d
+*.o
+kernel.elf
+kernel.img
+*.swp
+
